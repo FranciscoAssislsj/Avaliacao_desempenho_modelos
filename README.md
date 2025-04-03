@@ -14,9 +14,7 @@ Variáveis categóricas e numéricas que influenciam no preço.
 SalePrice: O preço final do imóvel (variável alvo).
 
 ## Métricas:
-R² Score (Coeficiente de Determinação)
-MAE (Erro Absoluto Médio)
-MSE (Erro Quadrático Médio)
+R² Score (Coeficiente de Determinação), MAE (Erro Absoluto Médio), MSE (Erro Quadrático Médio)
 
 ## Conclusão:
 Gradient Boosting teve o melhor R² (97,1%), indicando que explica melhor a variação dos preços das casas.
